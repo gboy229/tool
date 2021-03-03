@@ -1,14 +1,14 @@
 ## NGINX
 > ### Gixy–分析Nginx配置文件的工具 
-> ##### Gixy安装
+> + ##### Gixy安装
 >``` 
 >pip install gixy 
 >```
-> ##### Gixy使用
+> + ##### Gixy使用
 >``` 
 > gixy /usr/local/nginx/conf/nginx.conf
 > ``` 
-> ##### 结果
+> + ##### 结果
 >``` 
 >==================== Results ===================
 >No issues found.
